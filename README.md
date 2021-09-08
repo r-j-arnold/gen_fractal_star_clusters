@@ -1,6 +1,8 @@
 # gen_fractal_star_clusters
 Generate star forming regions with kinematic and spatial substructure.
 
+[![DOI](https://zenodo.org/badge/399783453.svg)](https://zenodo.org/badge/latestdoi/399783453)
+
 Becky Arnold 25/08/21 (r.j.arnold@keele.ac.uk)
 
 Code that generates simulated star forming regions via an adapted box 
